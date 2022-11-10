@@ -1,0 +1,12 @@
+$color-black: orange;
+$color-white: royalblue;
+
+body {
+  background-color: $color-black;
+
+  h1 {
+    display: flex;
+    font-size: 44px;
+    color: $color-white;
+  }
+}
